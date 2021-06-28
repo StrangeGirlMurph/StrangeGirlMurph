@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NanoKaano
+- 👋 Hi, I’m Murphy
 - 👀 I’m interested in physics. 
 - 🌱 I’m currently learning physics.
 - 💞️ I’m looking to collaborate on saving the world.
