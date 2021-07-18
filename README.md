@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Murphy
-- 👀 I’m interested in physics. 
-- 🌱 I’m currently learning physics.
+- 👀 I’m interested in [instert stuff]. 
+- 🌱 I’m currently learning computer science, mathematics and physics.
 - 💞️ I’m looking to collaborate on saving the world.
 - 📫 How to reach me: you don't.
 
