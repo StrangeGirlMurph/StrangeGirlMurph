@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Murphy
+- 👋 Hi, I’m Murph
 - 👀 I’m interested in [instert stuff]. 
 - 🌱 I’m currently learning computer science, mathematics and physics.
 - 💞️ I’m looking to collaborate on saving the world.
