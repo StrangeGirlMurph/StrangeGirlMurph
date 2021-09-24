@@ -1,10 +1,5 @@
 - 👋 Hi, I’m Murph
 - 👀 I’m interested in [instert stuff]. 
-- 🌱 I’m currently learning computer science, mathematics and physics.
-- 💞️ I’m looking to collaborate on saving the world.
+- 🌱 I’m currently learning computer science, mathematics, physics and cognitive neuroscience.
+- 💞️ I’m looking forward to collaborate with you on saving the world.
 - 📫 How to reach me: you don't.
-
-<!---
-NanoKaano/NanoKaano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
