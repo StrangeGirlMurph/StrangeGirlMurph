@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Murph
+- 👋 Hey, I’m Murph
 - 👀 I’m interested in [instert stuff]. 
-- 🌱 I’m currently learning computer science, mathematics, physics and cognitive neuroscience.
-- 💞️ I’m looking forward to collaborate with you on saving the world.
+- 🌱 I’m currently learning about computer science, mathematics, physics and cognitive neurosciences.
+- 💞️ I’m looking forward to collaborate with you on saving the world. :)
 - 📫 How to reach me: you don't.
+- 🐇🦄🌺🐬
