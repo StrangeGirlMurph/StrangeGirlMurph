@@ -1,4 +1,4 @@
-- 👋 Hey, I’m [Murph](https://murphy.vercel.app/)
+- 👋 Hey, I’m [Murph](https://strangegirlmurph.me)
 - 👀 I’m interested in [instert stuff]. 
 - 🌱 I’m currently learning about computer science, mathematics, physics and cognitive neurosciences.
 - 💞️ I’m looking forward to collaborate with you on saving the world. :)
