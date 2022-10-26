@@ -1,4 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrangeGirlMurph&theme=omni&hide=Jupyter%20Notebook&custom_title=Languages" />
+<a align="right" href=https://github.com/anuraghazra/github-readme-stats>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrangeGirlMurph&theme=omni&hide=Jupyter%20Notebook&custom_title=Languages" />
+</a>
 
 ---  
 
