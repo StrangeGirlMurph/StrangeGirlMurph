@@ -12,7 +12,7 @@
 
 ---
 
-**Programming language choices**
+**Programming Language Choices**
 - 🐍 [Python](https://www.python.org/) for Basic Automations/Puzzles/Machine Learning/Data Science 
 - 🌐 [Typescript](https://www.typescriptlang.org/)/[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) for Web Development/Bots
 - 🎮 [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) for Game Development (Unity)/OOP
@@ -20,7 +20,7 @@
 
 ---
 
-**Statistics**  
+**GitHub Statistics**  
 
 <a align="center" href=https://github.com/anuraghazra/github-readme-stats>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=StrangeGirlMurph&theme=omni&hide_title=true&card_width=350" />
