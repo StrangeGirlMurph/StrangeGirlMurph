@@ -1,14 +1,22 @@
 
 ---
 
-- 👋 Hey, I’m [Murph(y)](https://strangegirlmurph.me)
+**Hey, I am [Murph(y)](https://strangegirlmurph.me) :)**
 - 👀 I’m interested in [instert stuff]. 
 - 🌱 I’m currently learning about computer science, mathematics and physics.
-- 🐕 What I should actually be learning about rn: [Docker](https://www.docker.com/)
+- 🐕 What I should actually be learning rn: [Docker](https://www.docker.com/)
 - 💞️ I’m looking forward to collaborate with you on saving the world. :)
 - 📫 How to reach me: you don't ~~(idk just try a few things)~~.
 - 🦄 Check out: [The Anti-Capitalist Software License](https://anticapitalist.software/)
 - 🖥️ btw I use [Arch](https://archlinux.org/) (totally a noob though)
+
+---
+
+**Programming language choices**
+- 🐍 [Python](https://www.python.org/) for Basic Automations/Puzzles/Machine Learning/Data Science 
+- 🌐 [Typescript](https://www.typescriptlang.org/)/[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) for Web Development/Bots
+- 🎮 [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) for Game Development (Unity)/OOP
+- 💾 [Rust](https://www.rust-lang.org/) for High Performance/Low-Level
 
 ---
 
