@@ -9,6 +9,7 @@
 - 📫 How to reach me: you don't ~~(idk just try a few things)~~.
 - 🦄 Check out: [The Anti-Capitalist Software License](https://anticapitalist.software/)
 - 🖥️ btw I use [Arch](https://archlinux.org/) (totally a noob though)
+- 🐈‍⬛ Mother of a cute baby named [Jambo](https://github.com/Cowoding-Jams/Jambo)
 
 ---
 
