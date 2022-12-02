@@ -14,10 +14,13 @@
 ---
 
 **Programming Language Choices**
-- 🐍 [Python](https://www.python.org/) for Basic Automations/Puzzles/Machine Learning/Data Science 
-- 🌐 [Typescript](https://www.typescriptlang.org/)/[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) for Web Development/Bots
-- 🎮 [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) for Game Development (Unity)/OOP
-- 💾 [Rust](https://www.rust-lang.org/) for High Performance/Low-Level
+- 🐍 [Python](https://www.python.org/) for *One time tasks / Puzzles / Machine Learning / Data Science*
+- 🌐 [Typescript](https://www.typescriptlang.org/) for *Web Development / Bots / Stuff users interact with*
+- 🎮 [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) for *Game Development (Unity) / OOP*
+- 💾 [Rust](https://www.rust-lang.org/) for *High Performance / Low-Level / Fun*
+
+Sorted by liking: *Typescript, C#, Rust, Python*  
+Sorted by usage: *Python, Typescript, C#, Rust*
 
 ---
 
