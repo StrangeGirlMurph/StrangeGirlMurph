@@ -27,7 +27,7 @@ Sorted by usage: *Python, Typescript, C#, Rust*
 **GitHub Statistics**  
 
 <a align="center" href=https://github.com/anuraghazra/github-readme-stats>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=StrangeGirlMurph&theme=omni&hide_title=true&card_width=350" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=StrangeGirlMurph&theme=omni&hide_title=true&card_width=400" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrangeGirlMurph&theme=omni&hide=Jupyter%20Notebook&custom_title=Languages&hide_title=true&layout=compact" />
 </a>  
 <br></br>
