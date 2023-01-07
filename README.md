@@ -1,7 +1,7 @@
 
 ---
 
-**Hey, I am [Murph(y)](https://strangegirlmurph.me) :)**
+**Hey, I am [Murph(y)](https://murphy-in.space) :)**
 - 👀 I’m interested in [instert stuff]. 
 - 🌱 I’m currently learning about computer science, mathematics and physics.
 - 🐕 What I should actually be learning rn: [Docker](https://www.docker.com/)
