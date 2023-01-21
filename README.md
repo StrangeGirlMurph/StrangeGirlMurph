@@ -13,6 +13,8 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z1I0IV9)
 
+---
+
 **GitHub Statistics**  
 
 <a align="center" href=https://github.com/anuraghazra/github-readme-stats>
