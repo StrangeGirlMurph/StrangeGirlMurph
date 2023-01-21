@@ -13,24 +13,11 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z1I0IV9)
 
----
-
-**Programming Language Choices**
-- 🐍 [Python](https://www.python.org/) for *One time tasks / Puzzles / Machine Learning / Data Science*
-- 🌐 [Typescript](https://www.typescriptlang.org/) for *Web Development / Bots / Stuff users interact with*
-- 🎮 [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) for *Game Development (Unity) / OOP*
-- 💾 [Rust](https://www.rust-lang.org/) for *High Performance / Low-Level / Fun*
-
-Sorted by liking: *Typescript, C#, Rust, Python*  
-Sorted by usage: *Python, Typescript, C#, Rust*
-
----
-
 **GitHub Statistics**  
 
 <a align="center" href=https://github.com/anuraghazra/github-readme-stats>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=StrangeGirlMurph&theme=omni&hide_title=true&card_width=400" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrangeGirlMurph&theme=omni&hide=Jupyter%20Notebook&custom_title=Languages&hide_title=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrangeGirlMurph&theme=omni&hide=Jupyter%20Notebook,Mathematica&custom_title=Languages&hide_title=true&layout=compact" />
 </a> 
 
 <br></br>
