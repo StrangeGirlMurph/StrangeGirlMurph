@@ -24,7 +24,7 @@
 
 <br></br>
 
-**Wakatime Statistics**
+**Wakatime Statistics ([Profile](https://wakatime.com/@murph))**
 
 [![Murphy's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=murph&theme=omni&hide_title=true)](https://wakatime.com/@murph)
 
