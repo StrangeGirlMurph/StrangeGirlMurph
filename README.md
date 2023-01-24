@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Rust.
 - 🐕 What I should actually be learning rn: [Docker](https://www.docker.com/)
 - 💞️ I’m looking forward to collaborate with you on saving the world. :)
-- 📫 How to reach me: you don't ~~(idk just try a few things)~~.
+- 📫 How to reach me: you don't ~~(idk just try a few things e.g. [here](https://github.com/StrangeGirlMurph/StrangeGirlMurph/discussions))~~
 - 🦄 Check out: [The Anti-Capitalist Software License](https://anticapitalist.software/)
 - 🖥️ btw I use [Arch](https://archlinux.org/) (totally a noob though)
 - 🐈‍⬛ Mother of a cute baby named [Jambo](https://github.com/Cowoding-Jams/Jambo)
@@ -24,9 +24,9 @@
 
 <br></br>
 
-**Wakatime Statistics** (Top 10) ([Profile](https://wakatime.com/@murph))
+**Wakatime Statistics** (Top 8) ([Profile](https://wakatime.com/@murph))
 
-[![Murphy's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=murph&langs_count=10&layout=compact&theme=omni&hide_title=true)](https://wakatime.com/@murph)
+[![Murphy's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=murph&langs_count=8&layout=compact&theme=omni&hide_title=true)](https://wakatime.com/@murph)
 
 --- 
 
