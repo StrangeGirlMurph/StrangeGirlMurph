@@ -3,7 +3,7 @@
 
 **Hey, I am [Murph(y)](https://murphy-in.space) :)**
 - 👀 I’m interested in [instert stuff]. 
-- 🌱 I’m currently learning about computer science, mathematics and physics.
+- 🌱 I’m currently learning Rust.
 - 🐕 What I should actually be learning rn: [Docker](https://www.docker.com/)
 - 💞️ I’m looking forward to collaborate with you on saving the world. :)
 - 📫 How to reach me: you don't ~~(idk just try a few things)~~.
