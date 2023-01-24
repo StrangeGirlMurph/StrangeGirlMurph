@@ -24,9 +24,9 @@
 
 <br></br>
 
-**Wakatime Statistics ([Profile](https://wakatime.com/@murph))**
+**Wakatime Statistics (Top 10) ([Profile](https://wakatime.com/@murph))**
 
-[![Murphy's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=murph&layout=compact&theme=omni&hide_title=true)](https://wakatime.com/@murph)
+[![Murphy's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=murph&langs_count=10&layout=compact&theme=omni&hide_title=true)](https://wakatime.com/@murph)
 
 --- 
 
