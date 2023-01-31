@@ -1,7 +1,7 @@
 
 ---
 
-**Hey, I am [Murph(y)](https://murphy-in.space) :)**
+**Hey, I am [Murphy](https://murphy-in.space) :)**
 - 👀 I’m interested in [instert stuff]. 
 - 🌱 I’m currently learning Rust.
 - 🐕 What I should actually be learning rn: [Docker](https://www.docker.com/)
@@ -11,7 +11,7 @@
 - 🖥️ btw I use [Arch](https://archlinux.org/) (totally a noob though)
 - 🐈‍⬛ Mother of a cute baby named [Jambo](https://github.com/Cowoding-Jams/Jambo)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z1I0IV9)
+[![Support me on ko-fi :)](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z1I0IV9)
 
 ---
 
