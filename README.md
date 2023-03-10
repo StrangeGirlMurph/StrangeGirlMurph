@@ -7,7 +7,7 @@
 - 🐕 What I should actually be learning rn: [Docker](https://www.docker.com/)
 - 💞️ I’m looking forward to collaborate with you on saving the world. :)
 - 📫 How to reach me: you don't ~~(idk just try a few things e.g. [here](https://github.com/StrangeGirlMurph/StrangeGirlMurph/discussions))~~
-- 🦄 Check out: [The Anti-Capitalist Software License](https://anticapitalist.software/)
+- 🦄 Check out: [The Humane Software License](https://github.com/StrangeGirlMurph/The-Humane-Software-License)
 - 🖥️ btw I use [Arch](https://archlinux.org/) (totally a noob though)
 - 🐈‍⬛ Mother of a cute baby named [Jambo](https://github.com/Cowoding-Jams/Jambo)
 
