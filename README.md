@@ -28,6 +28,10 @@
 
 [![Murphy's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=murph&langs_count=8&layout=compact&theme=omni&hide_title=true)](https://wakatime.com/@murph)
 
+<!-- **Testaustime Statistics** (Top 8)
+
+[![Murphy's Testaustime Statistics](https://github-readme-testaustime.vercel.app/api/testaustime?username=StrangeGirlMurph&layout=compact&range=7&langs_count=8&theme=omni&hide_title=true)](https://wakatime.com/@murph) -->
+
 --- 
 
 **Work I am proud of:**
