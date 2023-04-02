@@ -8,7 +8,7 @@
 - 💞️ I’m looking forward to collaborate with you on saving the world. :)
 - 📫 How to reach me: you don't ~~(idk just try a few things e.g. [here](https://github.com/StrangeGirlMurph/StrangeGirlMurph/discussions))~~
 - 🦄 Check out: [The Humane Software License](https://github.com/StrangeGirlMurph/The-Humane-Software-License)
-- 🖥️ btw I use [Arch](https://archlinux.org/) (totally a noob though)
+- 🖥️ Oh and I use [Arch](https://archlinux.org/) btw (totally a noob though)
 - 🐈‍⬛ Mother of a cute baby named [Jambo](https://github.com/Cowoding-Jams/Jambo)
 
 [![Support me on ko-fi :)](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z1I0IV9)
