@@ -11,7 +11,7 @@
 - 🖥️ Oh and I use [Arch](https://archlinux.org/) btw (my [.dotfiles](https://github.com/StrangeGirlMurph/.dotfiles))
 - 🐈‍⬛ Mother of a cute baby named [Jambo](https://github.com/Cowoding-Jams/Jambo)
 
-[![Support me on ko-fi :)](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z1I0IV9)
+<!-- [![Support me on ko-fi :)](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z1I0IV9) -->
 
 ---
 
