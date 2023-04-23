@@ -35,3 +35,11 @@
 --- 
 
 **Work I am proud of:**
+
+<a href="https://user-images.githubusercontent.com/62220780/229159785-a2d462d6-1bb6-41ed-90a8-e5928f64d9f9.mp4">
+  <img src="https://user-images.githubusercontent.com/62220780/229159785-a2d462d6-1bb6-41ed-90a8-e5928f64d9f9.mp4" />
+<a/>
+
+<video controls>
+  <source src="https://user-images.githubusercontent.com/62220780/229159785-a2d462d6-1bb6-41ed-90a8-e5928f64d9f9.mp4" type="video/mp4">
+</video> 
