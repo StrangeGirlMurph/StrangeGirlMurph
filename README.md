@@ -13,9 +13,6 @@
 <!-- [![Support me on ko-fi :)](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z1I0IV9) -->
 
 
-<img src="header.svg" width="800" height="10">
-
-
 **GitHub Statistics** (Top 5)
 
 <a align="center" href=https://github.com/anuraghazra/github-readme-stats>
@@ -23,8 +20,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrangeGirlMurph&theme=omni&hide=Jupyter%20Notebook,Mathematica&exclude_repo=.dotfiles&custom_title=Languages&hide_title=true&layout=compact" />
 </a> 
 
-<br></br>
-
+<br><br/>
 **Wakatime Statistics** (Top 8) ([Profile](https://wakatime.com/@murph))
 
 [![Murphy's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=murph&langs_count=8&layout=compact&theme=omni&hide_title=true)](https://wakatime.com/@murph)
@@ -32,8 +28,6 @@
 <!-- **Testaustime Statistics** (Top 8)
 
 [![Murphy's Testaustime Statistics](https://github-readme-testaustime.vercel.app/api/testaustime?username=StrangeGirlMurph&layout=compact&range=7&langs_count=8&theme=omni&hide_title=true)](https://wakatime.com/@murph) -->
-
-<img src="header.svg" width="800" height="10">
 
 
 **Work I am proud of:**
