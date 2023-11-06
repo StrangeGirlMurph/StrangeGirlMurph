@@ -1,5 +1,4 @@
-
----
+<img src="header.svg" width="800" height="10">
 
 **Hey, I am [Murphy](https://murphy-in.space) :)**
 - 👀 I’m interested in [instert stuff]. 
@@ -13,7 +12,9 @@
 
 <!-- [![Support me on ko-fi :)](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z1I0IV9) -->
 
----
+
+<img src="header.svg" width="800" height="10">
+
 
 **GitHub Statistics** (Top 5)
 
@@ -32,6 +33,7 @@
 
 [![Murphy's Testaustime Statistics](https://github-readme-testaustime.vercel.app/api/testaustime?username=StrangeGirlMurph&layout=compact&range=7&langs_count=8&theme=omni&hide_title=true)](https://wakatime.com/@murph) -->
 
---- 
+<img src="header.svg" width="800" height="10">
+
 
 **Work I am proud of:**
