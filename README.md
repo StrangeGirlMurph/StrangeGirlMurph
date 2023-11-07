@@ -1,4 +1,4 @@
-<img src="header.svg" width="800" height="10">
+<img src="header.svg" width="800" height="8">
 
 **Hey, I am [Murphy](https://murphy-in.space) :)**
 - 👀 I’m interested in [instert stuff]. 
