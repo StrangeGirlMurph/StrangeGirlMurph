@@ -13,7 +13,7 @@
 <!-- [![Support me on ko-fi :)](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z1I0IV9) -->
 
 
-**GitHub Statistics** (Top 5)
+**GitHub Statistics**
 
 <a align="center" href=https://github.com/anuraghazra/github-readme-stats>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=StrangeGirlMurph&theme=omni&hide_title=true&card_width=400" />
