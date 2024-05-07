@@ -1,6 +1,6 @@
 <img src="header.svg" width="800" height="8">
 
-**Hey, I am [Murphy](https://murphy-in.space) :)**
+**Hey, I am Murphy ([in space](https://murphy-in.space)) :)**
 - 👀 I’m interested in [instert stuff]. 
 - 🌱 I’m currently learning Rust.
 - 🐕 What I should actually be learning rn: [Docker](https://www.docker.com/)
