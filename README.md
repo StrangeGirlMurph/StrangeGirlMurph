@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Rust.
 - 🐕 What I should actually be learning rn: [Docker](https://www.docker.com/)
 - 💞️ I’m looking forward to collaborate with you on saving the world. :)
-- 📫 How to reach me: you don't ~~(idk just try a few things e.g. [here](https://github.com/StrangeGirlMurph/StrangeGirlMurph/discussions))~~
+- 📫 How to reach me: you don't ~~(idk just try a few things e.g. [here](mailto:hello@murphy-in.space))~~
 - 🦄 Check out: [The Humane Software License](https://github.com/StrangeGirlMurph/The-Humane-Software-License)
 - 🖥️ Oh and I use [Arch](https://archlinux.org/) btw (about to switch to [NixOS](https://github.com/StrangeGirlMurph/system-config) though)
 - 🐈‍⬛ Mother of a cute baby named [Jambo](https://github.com/Cowoding-Jams/Jambo)
