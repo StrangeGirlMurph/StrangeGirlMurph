@@ -7,7 +7,7 @@
 - 💞️ I’m looking forward to collaborate with you on saving the world. :)
 - 📫 How to reach me: you don't ~~(idk just try a few things e.g. [here](mailto:hello@murphy-in.space))~~
 - 🦄 Check out: [The Humane Software License](https://github.com/StrangeGirlMurph/The-Humane-Software-License)
-- 🖥️ Oh and I use [Arch](https://archlinux.org/) btw (about to switch to [NixOS](https://nixos.org/) though)
+- 🖥️ Oh and I use [NixOS](https://nixos.org/) btw (sorry [Arch](https://archlinux.org/)... You were great but I like declaritive systems now.)
 - 🐈‍⬛ Mother of a cute baby named [Jambo](https://github.com/Cowoding-Jams/Jambo)
 
 <!-- [![Support me on ko-fi :)](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z1I0IV9) -->
